@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="PrefsMatrix\PrefsMatrix.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.30041c77e5822200" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrefsMatrix\Splash.cs">
+    <Files>
+      <File FileName="PrefsMatrix\Resources\Menu\main_menu.xml" Line="15" Column="1" />
+      <File FileName="PrefsMatrix\MainActivity.cs" Line="56" Column="3" />
+      <File FileName="PrefsMatrix\Config.cs" Line="44" Column="1" />
+      <File FileName="PrefsMatrix\Splash.cs" Line="13" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PrefsMatrix" expanded="True" selected="True">
+            <Node name="PrefsMatrix" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PrefsMatrix AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

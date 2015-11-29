@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff">
+    <TextView
+        android:text="Velocidade recomendada para esta via..."
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtMgsVia"
+        android:textAlignment="center"
+        android:gravity="center_vertical"
+        android:textColor="@android:color/background_dark"
+        android:paddingTop="10dp" />
+    <TextView
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:id="@+id/txtVelocidade"
+        android:gravity="center_horizontal"
+        android:paddingTop="0dp"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="500px"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="0.0dp"
+        android:text="0" />
+    <TextView
+        android:text="km/h"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtKm"
+        android:textColor="@android:color/holo_red_dark"
+        android:gravity="center_horizontal" />
+    <TextView
+        android:text="Tempo chuvoso"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="183.5dp"
+        android:id="@+id/txtInform"
+        android:gravity="center_horizontal"
+        android:textColor="@android:color/background_dark"
+        android:paddingTop="100dp"
+        android:layout_marginBottom="32.0dp" />
+</LinearLayout>

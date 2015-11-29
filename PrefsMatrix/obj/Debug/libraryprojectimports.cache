@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\silva\Desktop\Hackathon - Madrugada\PrefsMatrix\PrefsMatrix\obj\Debug\__library_projects__\Geolocator.Plugin\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\silva\Desktop\Hackathon - Madrugada\PrefsMatrix\PrefsMatrix\obj\Debug\__library_projects__\Refractored.Xam.TTS\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\silva\Desktop\Hackathon - Madrugada\PrefsMatrix\PrefsMatrix\obj\Debug\__library_projects__\Xamarin.Android.Support.v4\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\silva\Desktop\Hackathon - Madrugada\PrefsMatrix\PrefsMatrix\obj\Debug\__library_projects__\Xamarin.Insights\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>C:\Users\silva\Desktop\Hackathon - Madrugada\PrefsMatrix\PrefsMatrix\obj\Debug\__library_projects__\Geolocator.Plugin\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\silva\Desktop\Hackathon - Madrugada\PrefsMatrix\PrefsMatrix\obj\Debug\__library_projects__\Refractored.Xam.TTS\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\silva\Desktop\Hackathon - Madrugada\PrefsMatrix\PrefsMatrix\obj\Debug\__library_projects__\Xamarin.Android.Support.v4\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\silva\Desktop\Hackathon - Madrugada\PrefsMatrix\PrefsMatrix\obj\Debug\__library_projects__\Xamarin.Insights\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\silva\Desktop\Hackathon - Madrugada\PrefsMatrix\PrefsMatrix\obj\Debug\__library_projects__\Geolocator.Plugin.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\silva\Desktop\Hackathon - Madrugada\PrefsMatrix\PrefsMatrix\obj\Debug\__library_projects__\Refractored.Xam.TTS.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\silva\Desktop\Hackathon - Madrugada\PrefsMatrix\PrefsMatrix\obj\Debug\__library_projects__\Xamarin.Android.Support.v4.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\silva\Desktop\Hackathon - Madrugada\PrefsMatrix\PrefsMatrix\obj\Debug\__library_projects__\Xamarin.Insights.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
